@@ -6,3 +6,6 @@
 6. ==git log== 测试命令 查看提交日志
 7. ==git reset --hard HEAD^== 回退命令
 8. git reset --hard commitID 回退到指定的版本
+
+
+oooooooo
