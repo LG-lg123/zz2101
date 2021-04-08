@@ -11,7 +11,7 @@
 5. git diff 测试命令 查看文件修改的内容
 6. git log 测试命令 查看提交日志（提交版本历史记录）
 7. git reset --hard HEAD^ 回退命令(回退到上次提交的版本)
-8. git reset --hard commitID 回退到指定的版本
+8. git reset --hard ID 回退到指定的版本
 9. git reflog 查看版本改变的历史记录
 10. git restore 文件名 撤销工作区的修改
 11. git restore --staged 文件名 撤销暂存区的修改
