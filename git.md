@@ -22,3 +22,11 @@
     + 把密钥放到GitHub账号下的ssh里
     + $ git remote add origin git@github.com:github地址
     + git push -u origin master 推到远程仓库（第一次推送，之后推送只需git push）
+15. git checkout -b dev  创建并切换到dev分支上(checkout)   -b参数表示创建并切换
+    git switch -c dev   创建并切换到dev分支上(switch)(git checkout dev 切换分支)   -c参数表示创建并切换
+    + 相当于以下两条命令:
+    + git branch dev    新建分支dev
+    + git checkout dev  切换到dev分支
+16. git branch  查看当前分支，当前分支前面会标一个*号
+17. git merge dev   将dev分支合并到master上
+18. git branch -d dev   删除分支dev
