@@ -8,4 +8,4 @@
 8. git reset --hard commitID 回退到指定的版本
 
 
-asdasdasdasd
+我是尝试第2次联机操作
